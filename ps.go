@@ -15,4 +15,3 @@ func main() {
 		fmt.Printf("PID: %d\tProcess: %s\n", p.Pid(), p.Executable())
 	}
 }
-
